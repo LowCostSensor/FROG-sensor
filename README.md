@@ -1,3 +1,5 @@
+## Build Your Own FROG
+We can support the assembly of FROG sensors for research or educational purposes. Users only need to cover component and shipping costs.
 For any information, please contact riccardogaetano.cirrone@unipa.it
 
 This FROG sensor measures chlorophyll-a fluorescence and turbidity in water using LEDs and a photodiode. It converts light intensity readings into concentration values (ppb) or relative fluorescence signals, logs data locally to an SD card for offline storage, can upload measurements to ThingSpeak over Wi-Fi for remote monitoring. The device runs automatic measurements at regular intervals.
@@ -10,5 +12,3 @@ Laboratory and field evaluations demonstrated that the sensor delivers accurate 
 
 We welcome collaborations and contributions from researchers, developers, and citizen science groups.
 
-## Build Your Own FROG
-We can support the assembly of FROG sensors for research or educational purposes. Users only need to cover component and shipping costs.
