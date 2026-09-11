@@ -1,4 +1,5 @@
-## Build Your Own FROG
+
+## Build Your Own FROG  See the new release! https://github.com/LowCostSensor/FROG-sensor/releases/tag/v.2.0.0
 We can support the assembly of FROG sensors for research or educational purposes. Users only need to cover component and shipping costs.
 For any information, please contact riccardogaetano.cirrone@unipa.it
 
